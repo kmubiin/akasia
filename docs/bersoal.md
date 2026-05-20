@@ -12,4 +12,8 @@ Rang bersoal kmubiin/akasia
      Nama khas bersama tajuk sumber ialah: "Ruang Karangan
      Akasia: Kajian kendiri dalam bahasa Melayu".
 
+3.   Apakah ada penjelasan untuk nama-nama tersebut?
+
+     Sila rujuk [nama sumber](batas/nama.md)
+
 Disediakan oleh kmubiin, bermula Mei 2026.
