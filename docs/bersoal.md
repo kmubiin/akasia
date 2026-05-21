@@ -25,4 +25,12 @@ Rang bersoal kmubiin/akasia
      dalam format teks biasa dengan nama akhiran `.md`, dan
      mungkin dalam format HTML dengan nama akhiran `.html`.
 
+5.   Apakah sebab tidak memilih bahasa penanda lain?
+
+     Sebabnya, CommonMark dan HTML adalah bahasa penanda
+     yang cukup lazim dan lebih mudah disokong berbanding
+     yang lain. Paling tidak pun, hanya pasang satu unit
+     tambahan yang menyokong Markdown pada pelayar web,
+     supaya dapat dipapar terus ala HTML.
+
 Disediakan oleh kmubiin, bermula Mei 2026.
