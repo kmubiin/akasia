@@ -16,4 +16,13 @@ Rang bersoal kmubiin/akasia
 
      Sila rujuk [nama sumber](batas/nama.md)
 
+4.   Apakah piawai teks atau bahasa penanda untuk
+     menyediakan kandungan bagi sumber ini?
+
+     CommonMark dan HTML.
+
+     Kandungan bertulis bagi sumber ini lazimnya disimpan
+     dalam format teks biasa dengan nama akhiran `.md`, dan
+     mungkin dalam format HTML dengan nama akhiran `.html`.
+
 Disediakan oleh kmubiin, bermula Mei 2026.
