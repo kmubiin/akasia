@@ -27,10 +27,12 @@ Rang bersoal kmubiin/akasia
 
 5.   Apakah sebab tidak memilih bahasa penanda lain?
 
-     Sebabnya, CommonMark dan HTML adalah bahasa penanda
-     yang cukup lazim dan lebih mudah disokong berbanding
-     yang lain. Paling tidak pun, hanya pasang satu unit
-     tambahan yang menyokong Markdown pada pelayar web,
-     supaya dapat dipapar terus ala HTML.
+     Memilih yang pragmatik.
+
+     Sumber ini memilih bahasa penanda yang mudah disokong.
+     Dengan memasang satu unit tambahan untuk menyokong
+     Markdown, semua fail CommonMark dan HTML dapat dipapar
+     terus pada pelayar web. Tiada perisian yang rumit,
+     hanya perisian yang lazim lagi waras.
 
 Disediakan oleh kmubiin, bermula Mei 2026.
