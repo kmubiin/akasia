@@ -35,4 +35,9 @@ Rang bersoal kmubiin/akasia
      terus pada pelayar web. Tiada perisian yang rumit,
      hanya perisian yang lazim lagi waras.
 
+6.   Apakah ada senarai ciri-ciri yang boleh digunakan dalam
+     bahasa penanda pilihan bagi sumber ini?
+
+     Sila rujuk [bahasa penanda](batas/penanda.md)
+
 Disediakan oleh kmubiin, bermula Mei 2026.
