@@ -30,10 +30,9 @@ Rang bersoal kmubiin/akasia
      Memilih yang pragmatik.
 
      Sumber ini memilih bahasa penanda yang mudah disokong.
-     Dengan memasang satu unit tambahan untuk menyokong
-     Markdown, semua fail CommonMark dan HTML dapat dipapar
-     terus pada pelayar web. Tiada perisian yang rumit,
-     hanya perisian yang lazim lagi waras.
+     CommonMark boleh dipapar seperti HTML menggunakan
+     mana-mana unit tambahan pada pelayar web atau
+     penyunting teks yang menyokong Markdown.
 
 6.   Apakah ada senarai ciri-ciri yang boleh digunakan dalam
      bahasa penanda pilihan bagi sumber ini?
