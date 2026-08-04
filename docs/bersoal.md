@@ -34,8 +34,8 @@ Rang bersoal kmubiin/akasia
      mana-mana unit tambahan pada pelayar web atau
      penyunting teks yang menyokong Markdown.
 
-6.   Apakah ada senarai ciri-ciri yang boleh digunakan dalam
-     bahasa penanda pilihan bagi sumber ini?
+6.   Apakah ciri-ciri yang boleh atau tidak boleh digunakan
+     dalam bahasa penanda pilihan bagi sumber ini?
 
      Sila rujuk [bahasa penanda](batas/penanda.md)
 
