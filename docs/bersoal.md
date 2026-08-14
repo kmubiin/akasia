@@ -21,10 +21,6 @@ Rang bersoal kmubiin/akasia
 
      CommonMark dan HTML.
 
-     Kandungan bertulis bagi sumber ini lazimnya disimpan
-     dalam format teks biasa dengan nama akhiran `.md`, dan
-     mungkin dalam format HTML dengan nama akhiran `.html`.
-
 5.   Apakah sebab tidak memilih bahasa penanda lain?
 
      Memilih yang pragmatik.
@@ -38,5 +34,16 @@ Rang bersoal kmubiin/akasia
      dalam bahasa penanda pilihan bagi sumber ini?
 
      Sila rujuk [bahasa penanda](batas/penanda.md)
+
+7.   Apakah nama akhiran yang harus digunakan untuk
+     menyimpan fail CommonMark dan HTML bagi sumber ini?
+
+     Nama akhiran yang diusul bagi sumber ini adalah
+     saranan daripada dokumen awam iaitu,
+     `.md` bagi Markdown (merujuk [RFC 7763]) dan
+     `.htm` dan `.html` bagi HTML (merujuk [RFC 2854]).
+
+[RFC 7763]: https://www.rfc-editor.org/info/rfc7763/
+[RFC 2854]: https://www.rfc-editor.org/info/rfc2854/
 
 Disediakan oleh kmubiin, bermula Mei 2026.
