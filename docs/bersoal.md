@@ -46,4 +46,14 @@ Rang bersoal kmubiin/akasia
 [RFC 7763]: https://www.rfc-editor.org/info/rfc7763/
 [RFC 2854]: https://www.rfc-editor.org/info/rfc2854/
 
+8.   Apakah sebab memilih satu atau dua nama akhiran itu?
+
+     Memilih yang berkenaan.
+
+     Satu nama akhiran adalah lebih ringkas dan lebih lazim
+     berbanding dengan satu lagi bagi Markdown;
+     sebaliknya kedua-dua nama akhiran bagi HTML boleh
+     diberi nama yang sedikit lain bagi laman yang dikarang
+     sendiri atau di(l)uluskan oleh penjana laman.
+
 Disediakan oleh kmubiin, bermula Mei 2026.
