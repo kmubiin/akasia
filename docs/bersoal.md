@@ -50,10 +50,9 @@ Rang bersoal kmubiin/akasia
 
      Memilih yang berkenaan.
 
-     Satu nama akhiran adalah lebih ringkas dan lebih lazim
-     berbanding dengan satu lagi bagi Markdown;
-     sebaliknya kedua-dua nama akhiran bagi HTML boleh
-     diberi nama yang sedikit lain bagi laman yang dikarang
-     sendiri atau di(l)uluskan oleh penjana laman.
+     Nama akhiran yang satu adalah lebih ringkas dan lebih
+     lazim berbanding dengan satu lagi bagi Markdown;
+     sebaliknya yang dua bagi HTML boleh dijadikan petunjuk
+     untuk laman yang dikarang sendiri atau secara (l)azim.
 
 Disediakan oleh kmubiin, bermula Mei 2026.
