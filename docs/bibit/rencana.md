@@ -10,3 +10,13 @@ Perenggan ini mengikuti perenggan pertama. Pastikan selang
 satu baris antara dua perenggan. Had panjang tajuk dan
 setiap satu baris masing-masing tidak melebihi 60 aksara
 supaya mudah dibaca dan terurus.
+
+Tidak ada tajuk selain tajuk besar di baris pertama. Untuk
+memulakan perenggan yang berbeza, selang satu baris dan
+masukkan garis melintang menggunakan empat aksara sempang
+berturutan `----` seperti berikut.
+
+----
+
+Perenggan ini harus hadir selepas garis itu, walaupun hanya
+sebaris.
