@@ -55,4 +55,10 @@ Rang bersoal kmubiin/akasia
      sebaliknya yang dua bagi HTML boleh dijadikan petunjuk
      untuk laman yang dikarang sendiri atau secara (l)azim.
 
+9.   Apakah ada laman yang menunjukkan bahasa penanda
+     pilihan itu sudah memadai untuk mengarang suatu rencana
+     bagi sumber ini?
+
+     Sila rujuk **bentuk lazim rencana (belum sedia)**
+
 Disediakan oleh kmubiin, bermula Mei 2026.
