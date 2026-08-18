@@ -18,5 +18,6 @@ berturutan `----` seperti berikut.
 
 ----
 
-Perenggan ini harus hadir selepas garis itu, walaupun hanya
-sebaris.
+Di bawah garis ini, selang satu baris lain supaya kelihatan
+kemas, diikuti satu perenggan (ini) sekalipun panjangnya
+hanya sebaris.
