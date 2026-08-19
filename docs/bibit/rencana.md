@@ -7,10 +7,10 @@ Selang satu baris, dan mulakan perenggan baharu. Tulis
 pendahuluan atau huraian tajuk yang lebih panjang dalam
 perenggan pertama (ini).
 
-Perenggan ini mengikuti perenggan pertama. Pastikan selang
-satu baris antara dua perenggan. Had panjang tajuk dan
-setiap satu baris masing-masing tidak melebihi 60 aksara
-supaya mudah dibaca dan terurus.
+Panjang setiap satu baris dalam suatu rencana adalah terhad
+pada 60 aksara atau kurang, supaya mudah dibaca dan terurus.
+Tajuk besar di baris pertama mengikut had aksara yang sama,
+tetapi harus ditulis dalam satu baris sahaja.
 
 Tidak ada tajuk selain tajuk besar di baris pertama. Untuk
 memulakan perenggan yang berbeza, selang satu baris dan
