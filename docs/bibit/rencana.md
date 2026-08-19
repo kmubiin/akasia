@@ -3,8 +3,9 @@ Bentuk lazim rencana
 
 Baris pertama ialah tajuk besar. Baris kedua ialah garis
 putus menggunakan aksara sempang `-` sepanjang tajuk itu.
-Selang satu baris, dan mulakan perenggan pertama (ini).
-Tulis tajuk yang lebih panjang di sini, jika ada.
+Selang satu baris, dan mulakan perenggan baharu. Tulis
+pendahuluan atau huraian tajuk yang lebih panjang dalam
+perenggan pertama (ini).
 
 Perenggan ini mengikuti perenggan pertama. Pastikan selang
 satu baris antara dua perenggan. Had panjang tajuk dan
