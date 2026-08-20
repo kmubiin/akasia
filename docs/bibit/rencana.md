@@ -7,7 +7,7 @@ Selang satu baris, dan mulakan perenggan baharu. Tulis
 pendahuluan atau huraian tajuk yang lebih panjang dalam
 perenggan pertama (ini).
 
-Panjang setiap satu baris dalam suatu rencana adalah terhad
+Panjang setiap satu baris dalam format asal adalah terhad
 pada 60 aksara atau kurang, supaya mudah dibaca dan terurus.
 Tajuk besar di baris pertama mengikut had aksara yang sama,
 tetapi harus ditulis dalam satu baris sahaja.
@@ -19,6 +19,6 @@ berturutan `----` seperti berikut.
 
 ----
 
-Di bawah garis ini, selang satu baris lain supaya kelihatan
-kemas, diikuti satu perenggan (ini) sekalipun panjangnya
-hanya sebaris.
+Di bawah garis ini, selang satu baris lain supaya kekal
+sekata dan serasi, dan diikuti satu perenggan (ini)
+sekalipun panjangnya hanya sebaris.
