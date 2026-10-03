@@ -4,6 +4,6 @@ kandungan
 ---------
 
 `batas/` -- rang atau panduan asas  
-[`bersoal.md`](bersoal.md) -- tentang sumber ini  
+`bersoal.md` -- [tentang sumber ini](bersoal.md)  
 `index.md` -- laman utama (di sini)  
 `readme.md` -- symlink untuk terus papar di laman sumber  
