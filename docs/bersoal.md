@@ -40,8 +40,8 @@ Rang bersoal kmubiin/akasia
 
      Nama akhiran yang diusul bagi sumber ini adalah
      saranan daripada dokumen awam iaitu,
-     `.md` bagi Markdown (merujuk [RFC 7763]) dan
-     `.htm` dan `.html` bagi HTML (merujuk [RFC 2854]).
+     `.md` bagi Markdown (merujuk *[RFC 7763]*) dan
+     `.htm` dan `.html` bagi HTML (merujuk *[RFC 2854]*).
 
 [RFC 7763]: https://www.rfc-editor.org/info/rfc7763/
 [RFC 2854]: https://www.rfc-editor.org/info/rfc2854/
