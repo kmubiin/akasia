@@ -14,7 +14,9 @@ Rang bersoal kmubiin/akasia
 
 3.   Apakah ada penjelasan untuk nama-nama tersebut?
 
-     Sila rujuk [nama sumber](batas/nama.md)
+     Sila rujuk [nama sumber].
+
+[nama sumber]: batas/nama.md
 
 4.   Apakah piawai teks atau bahasa penanda untuk
      menyediakan kandungan bagi sumber ini?
@@ -33,7 +35,9 @@ Rang bersoal kmubiin/akasia
 6.   Apakah ciri-ciri yang hadir atau tidak hadir dalam
      bahasa penanda pilihan bagi sumber ini?
 
-     Sila rujuk [bahasa penanda](batas/penanda.md)
+     Sila rujuk [bahasa penanda].
+
+[bahasa penanda]: batas/penanda.md
 
 7.   Apakah nama akhiran yang harus digunakan untuk
      menyimpan fail CommonMark dan HTML bagi sumber ini?
