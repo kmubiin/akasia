@@ -4,20 +4,20 @@ Rang bahasa penanda
 Semua kandungan bagi sumber ini harus menggunakan
 CommonMark, iaitu Markdown yang mengikut peraturan lazim.
 
-Jika terdapat ciri-ciri yang tidak disokong secara lalai,
-maka gunakan bahasa penanda HTML. Ia boleh ditulis seiring
-dengan Markdown, berdasarkan piawai CommonMark sendiri.
-
 Dari sudut pandangan suatu bahasa penanda, terdapat dua
 kumpulan ciri:
 
-1. Piawai
-2. Bukan piawai (atau Perluasan)
+1. Piawai (lazim)
+2. Bukan piawai (perluasan)
 
 Kumpulan pertama merujuk pada ciri-ciri yang hadir dan
 seragam. Kumpulan kedua pula merujuk pada ciri-ciri yang
 tidak hadir atau yang diperluas. Kehadiran ciri-ciri
 tersebut bergantung pada bahasa penanda.
+
+Jika terdapat ciri-ciri yang tidak disokong secara lalai,
+maka gunakan bahasa penanda HTML. Ia boleh ditulis seiring
+dengan Markdown, berdasarkan piawai CommonMark sendiri.
 
 ----
 
